@@ -1,7 +1,23 @@
 {
-	"name": "MyStaticServer",
-	"version": "0.0.l",
-	"dependencies": {
-		"express": "4.16.x"
-	}
+  "name": "node_practice",
+  "version": "0.0.1",
+  "description": "Node.js tutorial",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rpedraza01/node_practice.git"
+  },
+  "author": "Guru99 <guru99@gmail.com> (http://Guru99.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rpedraza01/node_practice/issues"
+  },
+  "homepage": "https://github.com/rpedraza01/node_practice#readme"
 }
