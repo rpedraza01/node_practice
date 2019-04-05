@@ -1,0 +1,7 @@
+{
+	"name": "MyStaticServer",
+	"version": "0.0.l",
+	"dependencies": {
+		"express": "4.16.x"
+	}
+}
